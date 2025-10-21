@@ -180,3 +180,12 @@ export default defineConfig({
 **NoMercy404**
 - GitHub: [@NoMercy404](https://github.com/NoMercy404)
 
+## 🖼️ Screenshots
+Step 1: Basic Data
+<img width="1186" height="780" alt="scr1" src="https://github.com/user-attachments/assets/a269fd87-e0e3-4210-8fbf-a2cec98637ad" />
+Step 2: Contact Data
+<img width="1262" height="695" alt="scr2" src="https://github.com/user-attachments/assets/97d2b4fc-b232-4129-afef-379be332ebe7" />
+Step 3: Experience Data
+<img width="1181" height="877" alt="scr3" src="https://github.com/user-attachments/assets/88553aac-6484-4a87-b68e-5c05fad68f92" />
+Final step: Summarize
+<img width="1152" height="861" alt="scr4" src="https://github.com/user-attachments/assets/d12448f2-d517-4f82-b248-2ac379c95de7" />
